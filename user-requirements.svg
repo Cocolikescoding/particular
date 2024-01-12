@@ -1,0 +1,12 @@
+<svg width="77" height="95" viewBox="0 0 77 95" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="user-requirements">
+<rect id="Rectangle 12" x="12" y="12" width="65" height="83" rx="12" fill="#232323"/>
+<rect id="Rectangle 8" x="2" y="2" width="69" height="87" rx="8" fill="#232323" stroke="white" stroke-width="4"/>
+<rect id="Rectangle 9" x="30" y="17" width="30" height="4" rx="2" fill="white"/>
+<rect id="Rectangle 10" x="30" y="29" width="30" height="4" rx="2" fill="white"/>
+<rect id="Rectangle 11" x="30" y="41" width="17" height="4" rx="2" fill="white"/>
+<path id="Vector 4" d="M15 19.5L16.8011 20.9409C17.199 21.2592 17.7726 21.2274 18.1329 20.8671L23 16" stroke="white" stroke-width="3" stroke-linecap="round"/>
+<path id="Vector 5" d="M15 31.5L16.8011 32.9409C17.199 33.2592 17.7726 33.2274 18.1329 32.8671L23 28" stroke="white" stroke-width="3" stroke-linecap="round"/>
+<path id="Vector 6" d="M15 43.5L16.8011 44.9409C17.199 45.2592 17.7726 45.2274 18.1329 44.8671L23 40" stroke="white" stroke-width="3" stroke-linecap="round"/>
+</g>
+</svg>

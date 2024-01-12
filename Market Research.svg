@@ -1,0 +1,15 @@
+<svg width="101" height="75" viewBox="0 0 101 75" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 4">
+<rect id="Rectangle 8" width="101" height="66.5934" rx="6" fill="#232323"/>
+<path id="Rectangle 9" d="M5.54944 7.54956C5.54944 6.44499 6.44487 5.54956 7.54944 5.54956H93.4505C94.5551 5.54956 95.4505 6.44499 95.4505 7.54956V54.6045C95.4505 55.7091 94.5551 56.6045 93.4505 56.6045H7.54944C6.44487 56.6045 5.54944 55.7091 5.54944 54.6045V7.54956Z" fill="white"/>
+<rect id="Rectangle 18" x="42.1758" y="64.3735" width="16.6484" height="7.76923" fill="#232323"/>
+<rect id="Rectangle 19" x="39.9561" y="71.033" width="21.0879" height="3.32967" fill="#232323"/>
+<g id="Group 3">
+<rect id="Rectangle 20" x="31.0769" y="37.7363" width="5.54945" height="12.2088" rx="2.77473" fill="#232323"/>
+<rect id="Rectangle 21" x="42.1758" y="27.7473" width="5.54945" height="22.1978" rx="2.77473" fill="#232323"/>
+<rect id="Rectangle 22" x="53.2747" y="32.1868" width="5.54945" height="17.7582" rx="2.77473" fill="#232323"/>
+<rect id="Rectangle 23" x="64.3736" y="18.8682" width="5.54945" height="31.0769" rx="2.77473" fill="#232323"/>
+</g>
+<path id="Vector 7" d="M31.0769 24.9725L47.4942 15.9695C47.9415 15.7242 48.5017 15.8549 48.7943 16.2728L51.6451 20.3455C51.9401 20.7668 52.5064 20.8957 52.9546 20.6436L69.9231 11.0989" stroke="#232323" stroke-width="4" stroke-linecap="round"/>
+</g>
+</svg>

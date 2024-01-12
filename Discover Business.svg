@@ -1,0 +1,17 @@
+<svg width="103" height="100" viewBox="0 0 103 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="target">
+<circle id="Ellipse 2" cx="43" cy="56.416" r="38.5" fill="white" stroke="#232323" stroke-width="9"/>
+<circle id="Ellipse 3" cx="43" cy="56.416" r="23" fill="white" stroke="#232323" stroke-width="12"/>
+<circle id="Ellipse 4" cx="43" cy="56.416" r="12" fill="#232323"/>
+<g id="Rectangle 1">
+<mask id="path-4-outside-1_509_96" maskUnits="userSpaceOnUse" x="39.0618" y="12.2354" width="49.4975" height="49.4975" fill="black">
+<rect fill="white" x="39.0618" y="12.2354" width="49.4975" height="49.4975"/>
+<path d="M83.6096 14.3567L88.5593 19.3064L46.5693 61.2965L41.6195 56.3467L83.6096 14.3567Z"/>
+</mask>
+<path d="M83.6096 14.3567L88.5593 19.3064L46.5693 61.2965L41.6195 56.3467L83.6096 14.3567Z" fill="#232323"/>
+<path d="M43.7408 58.468L85.7309 16.478L81.4882 12.2354L39.4982 54.2254L43.7408 58.468Z" fill="white" mask="url(#path-4-outside-1_509_96)"/>
+</g>
+<path id="Rectangle 2" d="M90.3848 0.416016L92.8596 9.96196L102.406 12.4368L87.5563 27.2861L78.0104 24.8112L75.5355 15.2653L90.3848 0.416016Z" fill="#232323"/>
+<path id="Rectangle 3" opacity="0.2" d="M90.3848 0.416016L92.8596 9.96196L102.406 12.4368L87.5563 27.2861L78.0104 24.8112L75.5355 15.2653L90.3848 0.416016Z" fill="black"/>
+</g>
+</svg>
